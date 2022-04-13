@@ -1,2 +1,1 @@
-# Calismalarim
-Derslerden once yaptigim calismalar
+# Ödevler
